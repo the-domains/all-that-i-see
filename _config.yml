@@ -1,4 +1,4 @@
-favicon: null
+name: All that I See
 opengraph:
   image: null
   type: null
@@ -9,30 +9,30 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.1594982
+color:
+  saturation: 0.6684588
+  brandStrength: 0
+  rhythmicContrast: 0.6953405
+  brandColors: []
+  lightness: 0.7043011
 purpose:
   - name: shares
     url: null
     item: null
-typography_spectrum: 0.2724014
-color:
-  saturation: 0.6684588
-  brandStrength: 0
-  lightness: 0.7043011
-  brandColors: []
-  rhythmicContrast: 0.6953405
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.1594982
+favicon: null
+typography_spectrum: 0.2724014
 analytics:
   twitter: null
   google: null
   facebook: null
-name: All that I See
